@@ -102,6 +102,7 @@ depends: [
   "conf-gtksourceview"
   "conf-gnomecanvas"
   "alt-ergo"
+  "conf-graphviz" { post }
 ]
 
 depopts: [
